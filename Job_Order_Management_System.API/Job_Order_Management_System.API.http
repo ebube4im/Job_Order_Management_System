@@ -1,0 +1,6 @@
+@Job_Order_Management_System.API_HostAddress = http://localhost:5252
+
+GET {{Job_Order_Management_System.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
